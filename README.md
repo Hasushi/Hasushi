@@ -10,14 +10,14 @@
 
 ## My Skills
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,typescript,go,c,cpp,rust,python"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=bash,html,css,js,typescript,go,c,cpp,rust,python"/>
 
 ### Frameworks and Library
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,jest"/>
 
 ### DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,aws,docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,github,aws,docker"/>
 
 ## Contact
 **Click on this icon and feel free to contact me!**
