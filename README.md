@@ -23,3 +23,6 @@
 **Click on this icon and feel free to contact me!**
 
 <a href="https://discordapp.com/users/1139211974220202035"><img src="https://skillicons.dev/icons?i=discord"/></a>
+
+> [!CAUTION]
+> Please do not solicit for anti-social forces or religions.
