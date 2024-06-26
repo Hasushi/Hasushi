@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,jest"/>
 
 ### DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,github,aws,docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,github,githubactions,aws,docker"/>
 
 ## Contact
 **Click on this icon and feel free to contact me!**
