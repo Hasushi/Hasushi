@@ -1,8 +1,7 @@
 # 👀 About Hasushi
 
-- I'm a full-stack engineer.
-- I work primarily with teams to create ToB web applications.
-- My favorite language is Rust.
+- I'm a backend engineer.
+- My favorite language is Golang.
 
 
 ## Percentage of languages used
