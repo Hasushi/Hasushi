@@ -10,7 +10,7 @@
 ## My Skills
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=bash,html,css,js,typescript,go,c,cpp,rust,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,go,c,cpp,rust,python"/>
 
 ### Frameworks and Library
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,jest"/>
