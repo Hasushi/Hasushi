@@ -1,6 +1,6 @@
 # 👀 About Hasushi
 
-- I'm a backend engineer.
+- I'm a web engineer.
 - My favorite language is Golang.
 
 
@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,jest"/>
 
 ### DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,github,githubactions,aws,docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,gitlab,github,githubactions,docker"/>
 
 ## Contact
 **Click on this icon and feel free to contact me!**
