@@ -1,22 +1,16 @@
 # 👀 About Hasushi
 
-- I'm a web engineer.
-- My favorite language is Golang.
+- A web engineer.
+- Golang is best for me.
 
+<img src="https://skillicons.dev/icons?i=c,typescript,go,rust,python"/>
+<img src="https://skillicons.dev/icons?i=react,next,vue,tailwind"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,k8s,figma"/>
 
-## Percentage of languages used
+<!-- 
+## Percentage of languages used 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Hasushi&show_icons=true&locale=en&layout=compact)
-
-## My Skills
-
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,go,rust,python"/>
-
-### Frameworks and Library
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,jest"/>
-
-### DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,gitlab,github,githubactions,docker"/>
+-->
 
 ## Contact
 **Click on this icon and feel free to contact me!**
